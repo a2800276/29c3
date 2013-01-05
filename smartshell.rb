@@ -129,7 +129,7 @@ def read_records afl=@afl
 end
 
 ATC="\x9f\x36"
-LAST_ONLINE_ATC="\x9f\x31"
+LAST_ONLINE_ATC="\x9f\x13"
 PIN_TRY_CTR="\x9f\x17"
 LOG_FMT="\x9f\x4f"
 
